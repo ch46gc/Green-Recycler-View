@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GreenRecyclerView</string>
+    <!--String for the title of the menu item, "Reset"-->
+    <string name="action_reset">Reset</string>
 </resources>
